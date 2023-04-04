@@ -3,7 +3,7 @@ Algoritmo IntegradorEggPDC
 	definir genZ,palabra,letra como cadena 
 	Definir condLetra Como Logico
 	condLetra= Verdadero
-	
+	//HOLAAA
 //	Hacer
 //		Hacer
 //			Escribir "Ingrese el GenZ que desea evaluar(debe tener 9,16 o 1369 caracteres y ser A, B, C o D)"
